@@ -63,6 +63,6 @@ export class AuthServices {
 
  
 
-const authServices = new AuthServices
+const authService = new AuthServices
 
-export default authServices;
+export default authService;
